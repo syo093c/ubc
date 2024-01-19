@@ -1,0 +1,3 @@
+[submodule "TransMIL"]
+	path = TransMIL
+	url = https://github.com/szc19990412/TransMIL.git
